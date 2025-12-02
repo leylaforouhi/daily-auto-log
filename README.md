@@ -1,4 +1,4 @@
-import datetime
+import datetim
 import os
 
 def create_daily_log():
